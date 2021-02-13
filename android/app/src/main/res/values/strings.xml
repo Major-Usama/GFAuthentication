@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GFAunthantication</string>
+   <string name="facebook_app_id">117811110251023</string>
+<string name="fb_login_protocol_scheme">fb117811110251023</string>
+</resources>
